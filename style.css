@@ -26,3 +26,10 @@ header {
 .text-white{
     color: #fff;
 }
+
+.outline {
+  border: 2px solid #fff;
+  border-radius: 25px;
+  height: 150px;
+}
+
