@@ -5,3 +5,8 @@ body{
     margin: 0;
     padding: 0;
 }
+.animation-container {
+    opacity: 0;
+    transform: translateY(20px);
+    transition: opacity 1s, transform 1s;
+}
