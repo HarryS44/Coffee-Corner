@@ -20,8 +20,9 @@ header {
 
 .black{
     background-color: #00000085;
-   
 }
+
+
 
 .text-white{
     color: #fff;
@@ -35,6 +36,17 @@ header {
 
 .fresh-background{
   background-image: url(Resources/Images/Freshly-Baked.jpg);
+}
+
+.background{
   background-position: center;
   background-size: cover;
+}
+
+.coffee-background{
+  background-image: url(Resources/Images/Coffee.jpg);
+}
+
+.green-background{
+  background-image: url(Resources/Images/Green.jpg);
 }
