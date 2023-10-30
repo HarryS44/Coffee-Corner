@@ -62,3 +62,15 @@ header {
   overflow: hidden;
   height: 50vh;
 }
+
+.london-background{
+  background-image: url(Resources/Images/London.jpg);
+}
+
+.nottingham-background{
+  background-image: url(Resources/Images/Nottingham.jpg);
+}
+
+.edinburgh-background{
+  background-image: url(Resources/Images/Edinburgh.jpg);
+}
