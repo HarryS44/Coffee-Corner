@@ -33,3 +33,8 @@ header {
   height: 150px;
 }
 
+.fresh-background{
+  background-image: url(Resources/Images/Freshly-Baked.jpg);
+  background-position: center;
+  background-size: cover;
+}
